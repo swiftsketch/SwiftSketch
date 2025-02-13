@@ -1,7 +1,7 @@
 # SwiftSketch: A Diffusion Model for Image-to-Vector Sketch Generation
 
 <p align="center">
-<img src="docs/teaser.png" width="800px"/>
+<img src="docs/swift_teaser.png" width="800px"/>
 </p>
 
 *SwiftSketch is a diffusion model that generates vector sketches by denoising a Gaussian in stroke coordinate space. It generalizes effectively across diverse classes and takes under a second to produce a single high-quality sketch.*
